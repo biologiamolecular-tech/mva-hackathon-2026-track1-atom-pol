@@ -22,7 +22,6 @@ logs/
 *private*
 *phenopacket*
 *clinical*
-*phenotype*
 
 # Archivos comprimidos y temporales
 *.zip
