@@ -1,0 +1,12 @@
+Genome assembly: GRCh38
+bcftools: 1.24
+samtools: 1.24
+Ensembl VEP: 116.1
+VEP cache: Homo sapiens 116 GRCh38
+Exomiser CLI: 15.1.0
+Exomiser phenotype data: 2602
+Exomiser hg38 data: 2602
+HPO ontology: 2026-06-23
+WhatsHap: 2.8
+HapCUT2: version not independently recorded
+Python: version provided by the execution environment

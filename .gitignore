@@ -1,0 +1,39 @@
+# Datos genómicos controlados
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+*.csi
+
+# Datos clínicos o privados
+private/
+data/
+reference/
+software/
+logs/
+*private*
+*phenopacket*
+*clinical*
+*phenotype*
+
+# Archivos comprimidos y temporales
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.pid
+*.log
+.env
+*token*
+
+# macOS
+.DS_Store
+._*
