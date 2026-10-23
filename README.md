@@ -31,6 +31,18 @@ because no sequencing template directly bridged both sites.
 The EPCR value in the submission CSV represents challenge-ranking confidence,
 not a clinically calibrated probability.
 
+## Team
+
+**Team name:** `atom_pol`  
+**Track 1 submission account:** [`PBIOL`](https://huggingface.co/PBIOL)
+
+| Contributor | Hugging Face | GitHub |
+|---|---|---|
+| Guillermo Giaj Merlera | [`ggiajmerlera`](https://huggingface.co/ggiajmerlera) | [`guillermogiajmerlera`](https://github.com/guillermogiajmerlera) |
+| Pablo Sebastian Velez | [`polface`](https://huggingface.co/polface) | [`poldohko`](https://github.com/poldohko) |
+
+The submission was prepared collaboratively under the team name `atom_pol`. The individual profiles listed above identify the team members, while the Track 1 prediction was submitted through the `PBIOL` Hugging Face account.
+
 ## Repository contents
 
 - `results/atom_pol_phenotype-exomiser-v1.csv`: official Track 1 prediction.
