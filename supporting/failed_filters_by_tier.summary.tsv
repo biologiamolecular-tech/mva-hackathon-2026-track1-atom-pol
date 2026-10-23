@@ -1,0 +1,6 @@
+section	criterion	count
+MAPPING	failed_evaluations	18
+MAPPING	mapped_evaluations	0
+MAPPING	ambiguous_evaluations	0
+MAPPING	unmapped_evaluations	18
+MAPPING	unique_failed_core_variants	0
